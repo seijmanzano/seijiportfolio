@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: rgb(219, 212, 212);
+    font-family: 'Arial', sans-serif;
+    background: rgb(13, 26, 37); 
+   
+}
+
+#cover {
+    padding-top: 10%;
+    padding-bottom: 15%;
+    
+}
+
+.my-name {
+    font-size: 68px;
+
+}
+
+.text-muted {
+    font-size: 55px;
+}
+
+.btn {
+    color: black;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #00b3db;
+    border-color: #285e8e; /*set the color you want here*/
+}
+
+#about {
+    padding-bottom: 15%;
+}
+
+#skills {
+    padding-bottom: 15px;
+}
+
+#projects {
+    padding-bottom: 15px;
+}
